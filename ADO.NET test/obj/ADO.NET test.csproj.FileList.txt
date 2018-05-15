@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ADO.NET_test.Form1.resources
+obj\Debug\ADO.NET_test.Properties.Resources.resources
+obj\Debug\ADO.NET test.csproj.GenerateResource.Cache
+bin\Debug\ADO.NET test.exe
+bin\Debug\ADO.NET test.pdb
+obj\Debug\ADO.NET test.exe
+obj\Debug\ADO.NET test.pdb
+bin\Debug\ADO.NET test.exe.config
